@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Doug Finch 
+
+---
 ![GitHub followers](https://img.shields.io/github/followers/dpfinch?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/douglasfinch?style=social)
+
+A research data scientist in at The University of Edinburgh specialising in atmospheric chemistry. I create software in python to gather, process and analyse data from satellites, ground observations and computer models.
 
 
 <!--
