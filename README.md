@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Doug Finch 
+![GitHub followers](https://img.shields.io/github/followers/dpfinch?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/douglasfinch?style=social)
+
 
 <!--
 **dpfinch/dpfinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
